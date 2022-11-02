@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+}
+
+h2 {
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+#column1 {
+  width: 50%;
+}
+
+#column2 {
+  width: 50%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
